@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="amatw.github.io" resolutions="1x" timestamp="1493733903200">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="amatw.github.io" resolutions="1x" timestamp="1493734175165">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="about.css" crc="4121424784" ref="about"/>
@@ -25,6 +25,6 @@
     <file name="amatwat-u135-fr4.png" crc="140741736" ref="index"/>
     <file name="amatwat-u135-fr5.png" crc="401853562" ref="index"/>
   </folder>
-  <file name="index.html" crc="278591113" seo="true" mt="1493732997532" redirect="true"/>
+  <file name="index.html" crc="3870312078" seo="true" mt="1493734164858" redirect="true"/>
   <file name="about.html" crc="420023804" seo="true" mt="1493729629095" redirect="true"/>
 </manifest>
