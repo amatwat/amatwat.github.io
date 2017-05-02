@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="amatw.github.io" resolutions="1x" timestamp="1493732376848">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="amatw.github.io" resolutions="1x" timestamp="1493733903200">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="about.css" crc="4121424784" ref="about"/>
-    <file name="index.css" crc="405183696" ref="index"/>
-    <file name="nomq_index.css" crc="3895469948" ref="index"/>
+    <file name="index.css" crc="3875287175" ref="index"/>
+    <file name="nomq_index.css" crc="3769201299" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:about"/>
@@ -25,6 +25,6 @@
     <file name="amatwat-u135-fr4.png" crc="140741736" ref="index"/>
     <file name="amatwat-u135-fr5.png" crc="401853562" ref="index"/>
   </folder>
-  <file name="index.html" crc="3853334348" seo="true" mt="1493732365249" redirect="true"/>
+  <file name="index.html" crc="278591113" seo="true" mt="1493732997532" redirect="true"/>
   <file name="about.html" crc="420023804" seo="true" mt="1493729629095" redirect="true"/>
 </manifest>
